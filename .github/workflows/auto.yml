@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  DIFY_TOKENS: ${{ secrets.TECHOF }}
+  DIFY_TOKENS: ${{ secrets.aaaaa }}
   DIFY_BASE_URL: ${{ secrets.DIFY_BASE_URL }}
   DIFY_INPUTS: ${{ secrets.DIFY_INPUTS }}
   EMAIL_USER: ${{ secrets.EMAIL_USER }}
